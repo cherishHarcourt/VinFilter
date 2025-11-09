@@ -1,5 +1,5 @@
-import "./Navbar.css"
-import logo from "../../assets/images/icons8-camera-100.png"
+import "../App.css"
+import logo from "../assets/images/icons8-camera-100.png"
 
 const Navbar = () => {
   return (
